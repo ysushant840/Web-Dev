@@ -1,0 +1,20 @@
+.profile {
+    width: 400px;
+    height: 200px;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.profile h1 {
+    color: blue;
+    font-size: 35px;
+}
+
+#course {
+    color: red;
+    font-weight: bold;
+}
+
+.profile p {
+    font-family: Arial;
+}
